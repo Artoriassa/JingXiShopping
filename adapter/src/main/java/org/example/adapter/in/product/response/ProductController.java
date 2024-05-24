@@ -1,6 +1,6 @@
-package com.JingXiShoppingDemo.controller;
+package org.example.adapter.in.product.response;
 
-import com.JingXiShoppingDemo.domain.Product;
+import org.example.domain.Product;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

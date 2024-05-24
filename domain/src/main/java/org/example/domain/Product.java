@@ -1,4 +1,4 @@
-package com.JingXiShoppingDemo.domain;
+package org.example.domain;
 
 public class Product {
     private String sku;
